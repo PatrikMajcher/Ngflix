@@ -15,7 +15,7 @@ Getting Started
 To run NGFLIX locally, follow these steps:
 
 1.Clone the Repository:
-git clone https://github.com/your-username/NGFLIX.git
+git clone https://github.com/PatrikMajcher/Ngflix
 cd NGFLIX
 
 Install Dependencies:
